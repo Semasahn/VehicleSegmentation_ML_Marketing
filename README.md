@@ -1,5 +1,8 @@
 
 # VehicleSegmentation_ML_Marketing
+## 🚗 Canlı Demo
+
+[🔗 Uygulamayı Görüntüle](https://semasahn-vehiclesegmentation-ml-marketing.streamlit.app)
 
 ## 🔍 Project Overview / Proje Genel Bakış
 
