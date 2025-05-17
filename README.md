@@ -2,9 +2,7 @@
 # VehicleSegmentation_ML_Marketing
 ## 🚗 Canlı Demo
 
-[🔗 Uygulamayı Görüntüle](https://semasahn-vehiclesegmentation-ml-marketing.streamlit.app)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://semasahn-vehiclesegmentation-ml-marketing.streamlit.app)
+[🔗 Uygulamayı Görüntüle](vehiclesegmentation_ml_marketing ∙ main ∙ streamlit_app.py)
 
 
 ## 🔍 Project Overview / Proje Genel Bakış
