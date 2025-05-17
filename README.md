@@ -5,12 +5,7 @@
 
 Uygulamayı tarayıcınızda görüntülemek için:
 
-[🔗 Uygulamayı Görüntüle](https://semasahn-vehiclesegmentation-ml-marketing.streamlit.app)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://semasahn-vehiclesegmentation-ml-marketing.streamlit.app)
-https://vehiclesegmentationmlmarketing.streamlit.app
-
-
+🔗 Uygulamayı Görüntüle(https://vehiclesegmentationmlmarketing.streamlit.app)
 
 
 ## 🔍 Project Overview / Proje Genel Bakış
