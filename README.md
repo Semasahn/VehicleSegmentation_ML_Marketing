@@ -5,7 +5,7 @@
 
 Uygulamayı tarayıcınızda görüntülemek için:
 
-🔗 Uygulamayı Görüntüle(https://vehiclesegmentationmlmarketing.streamlit.app)
+[🔗Uygulamayı Görüntüle](https://vehiclesegmentationmlmarketing.streamlit.app)
 
 
 ## 🔍 Project Overview / Proje Genel Bakış
